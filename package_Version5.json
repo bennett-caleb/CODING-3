@@ -1,0 +1,10 @@
+{
+  "name": "web-rpg-game",
+  "version": "1.0.0",
+  "description": "A web-based RPG game playable in browser, ready for Codespaces.",
+  "scripts": {
+    "start": "live-server --no-browser"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
